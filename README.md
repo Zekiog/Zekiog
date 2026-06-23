@@ -1,16 +1,17 @@
 <div align="center">
 
-# Zeki Oguz — Translator & Developer from Trondheim 🇳🇴
+# Zeki Oguz — Developer, Translator & AI Systems Specialist from Trondheim 🇳🇴
 
 ---
 
 ## 🚀 About Me
 
-- Translator: Turkish 🇹🇷, Norwegian 🇳🇴, English 🇬🇧 (fluent), Kurdish 🏳️, Arabic 🇸🇾 (on-the-fly), Swedish 🇸🇪 & Danish 🇩🇰 (pro docs/web), Swiss German 🇨🇭 & German 🇩🇪 (proficient)
-- Developer with strong interest in AI and fullstack development; actively learning and building projects in these areas
-- Experience with multilingual web applications and real-time localization/translation
-- Mission: Use technology and languages to help organizations and projects grow internationally
-- Currently focusing on cloud technologies (Azure, Google Cloud, AWS) and modern web development
+- Translator: Turkish 🇹🇷, Norwegian 🇳🇴, English 🇬🇧 (fluent), Kurdish 🏳️, Arabic 🇸🇾 (on-the-fly), Swedish 🇸🇪 & Danish 🇩🇰 (pro docs/web), Swiss German 🇨🇭 & German 🇩🇪
+- Developer with strong interest in AI systems, agentic workflows, and fullstack development; actively building and optimizing intelligent systems
+- Specialized in quality assurance frameworks, human evaluation methodologies, and ethical AI validation
+- Experience with multilingual web applications, real-time localization/translation, and AI-driven content adaptation
+- Mission: Use technology and languages to help organizations and projects grow internationally, with responsible AI at the core
+- Currently focusing on cloud technologies (Azure, Google Cloud, AWS), modern web development, and AI agent orchestration
 
 ---
 
@@ -30,10 +31,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![AI/ML](https://img.shields.io/badge/AI%2FML-LLM%20%7C%20Agents-blue?style=flat)
 
 ---
 
 ## ✨ Featured Projects
+
 - [ai-localization-demo](https://github.com/ZeZilly/ai-localization-demo): AI-powered, real-time translation/localization demo app.
 - [cloud-automation-starter](https://github.com/ZeZilly/cloud-automation-starter): Starter kit for automating cloud workflows (Azure, GCP, AWS).
 - [multilingual-webapp-starter](https://github.com/ZeZilly/multilingual-webapp-starter): Boilerplate for a multilingual website (React/Next.js, i18n, multi-language content).
@@ -41,7 +44,18 @@
 
 ---
 
+## 🤖 AI & Quality Systems
+
+- Actively testing, validating, and optimizing agentic AI workflows
+- Implementing human-in-the-loop quality rating and evaluation frameworks
+- Designing ethical AI validation methodologies with cultural and linguistic awareness
+- Working on specialized localization and content adaptation systems using AI
+- Engaging in confidential freelance projects combining AI innovation with human oversight (NDA)
+
+---
+
 ## 📜 Certifications & Learning
+
 - Microsoft Certified: Azure Developer Associate (in progress)
 - Google Cloud & AWS Developer Programs (in progress)
 - International Food Safety & Hygiene (2017, Sweden)
@@ -51,6 +65,7 @@
 ---
 
 ## 🤝 Contact & Social
+
 <p align="center">
   <a href="mailto:mzogz@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/zekiogz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -63,16 +78,19 @@
 
 ## ☕ Support Me
 
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=mehmetzekih&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/mehmetzekih)
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=mehmetzekih&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&cof_bg=FFFFFF&margin_top=5&margin_bottom=5)](https://www.buymeacoffee.com/mehmetzekih)
 
 ---
 
 ## 🎨 Creative Badges
+
 <p align="center">
   <img src="https://img.shields.io/badge/🌍-Global%20Citizen-blueviolet?style=for-the-badge" alt="Global Citizen"/>
   <img src="https://img.shields.io/badge/🗣️-Polyglot%20Translator-brightgreen?style=for-the-badge" alt="Polyglot Translator"/>
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/🤖-AI%20Systems%20Builder-orange?style=for-the-badge" alt="AI Systems Builder"/>
   <img src="https://img.shields.io/badge/🌱-Continuous%20Learner-success?style=for-the-badge" alt="Continuous Learner"/>
 </p>
+
 </div>
