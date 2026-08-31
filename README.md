@@ -1,15 +1,20 @@
 <div align="center">
 
-# Zeki Oguz — Developer, Translator & AI Systems Specialist from Trondheim 🇳🇴
+# Zeki Oguz
+
+### AI Agent Architect · Open-Source Contributor · Enterprise-Grade Systems
+
+*Developer, Translator & AI Systems Specialist from Trondheim 🇳🇴*
 
 ---
 
 ## 🚀 About Me
 
 - Translator: Turkish 🇹🇷, Norwegian 🇳🇴, English 🇬🇧 (fluent), Kurdish 🏳️, Arabic 🇸🇾 (on-the-fly), Swedish 🇸🇪 & Danish 🇩🇰 (pro docs/web), Swiss German 🇨🇭 & German 🇩🇪
-- Developer with strong interest in AI systems, agentic workflows, and fullstack development; actively building and optimizing intelligent systems
+- **AI Agent Architect** — design and ship agentic systems with human-in-the-loop gates, durable execution, and auditable decision trails
+- **Open-Source Contributor** — maintain public reference implementations and accept community contributions via clear `CONTRIBUTING.md` and `SECURITY.md` flows
+- **Enterprise-Grade Engineering** — FastAPI / Node.js / TypeScript, N8N orchestrations, MCP tool servers, containerized deploys, CI/CD with badges
 - Specialized in quality assurance frameworks, human evaluation methodologies, and ethical AI validation
-- Experience with multilingual web applications, real-time localization/translation, and AI-driven content adaptation
 - Mission: Use technology and languages to help organizations and projects grow internationally, with responsible AI at the core
 - Currently focusing on cloud technologies (Azure, Google Cloud, AWS), modern web development, and AI agent orchestration
 
@@ -32,6 +37,18 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-LLM%20%7C%20Agents-blue?style=flat)
+
+---
+
+## 📊 GitHub at a Glance
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Agent%20Architecture-0F766E?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20TypeScript%20%7C%20Cloud-7C3AED?style=for-the-badge" alt="Stack"/>
+  <img src="https://img.shields.io/badge/Working%20From-Trondheim%2C%20NO-B91C1C?style=for-the-badge" alt="Working From"/>
+</p>
+
+> 13 public repos · 173 private forks/customizations · open to collaboration via PR
 
 ---
 
