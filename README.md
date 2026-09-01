@@ -1,113 +1,134 @@
 <div align="center">
 
-# Zeki Oguz
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=01696f&height=140&section=header&text=Zeki%20Oguz&fontSize=44&fontColor=ffffff&fontAlignY=52&desc=AI%20Systems%20%C2%B7%20Automation%20%C2%B7%20Multilingual%20Infrastructure&descAlignY=78&descSize=16" width="100%" alt="Zeki Oguz" />
 
-### AI Agent Architect · Open-Source Contributor · Trondheim 🇳🇴
+</div>
 
-*Developer, Translator & AI Systems Specialist from Trondheim 🇳🇴*
+<div align="center">
+
+[![Location](https://img.shields.io/badge/📍_Trondheim,_Norway-1c1b19?style=flat-square&logoColor=white)](https://github.com/Zekiog)
+[![Status](https://img.shields.io/badge/🟢_Open_to_Collaboration-01696f?style=flat-square)](https://github.com/Zekiog)
+[![Company](https://img.shields.io/badge/🏢_@Zekk--s-0c4e54?style=flat-square)](https://github.com/Zekk-s)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧭 What I Build
 
-- Translator: Turkish 🇹🇷, Norwegian 🇳🇴, English 🇬🇧 (fluent), Kurdish 🏳️, Arabic 🇸🇾 (on-the-fly), Swedish 🇸🇪 & Danish 🇩🇰 (pro docs/web), Swiss German 🇨🇭 & German 🇩🇪
-- **AI Agent Architect** — design and ship agentic systems with human-in-the-loop gates, durable execution, and auditable decision trails
-- **Open-Source Contributor** — maintain public reference implementations and accept community contributions via clear `CONTRIBUTING.md` and `SECURITY.md` flows
-- **Production Engineering** — FastAPI / Node.js / TypeScript, N8N orchestrations, MCP tool servers, containerized deploys, CI/CD with badges
-- Specialized in quality assurance frameworks, human evaluation methodologies, and ethical AI validation
-- Mission: Use technology and languages to help organizations and projects grow internationally, with responsible AI at the core
-- Currently focusing on cloud technologies (Azure, Google Cloud, AWS), modern web development, and AI agent orchestration
+I design and ship **AI agent systems**, **automation workflows**, and **multilingual digital infrastructure** — with a focus on production reliability, observable execution, and human-in-the-loop control.
+
+```text
+Core areas:
+  ├── AI Agent Orchestration      → durable, auditable, human-gated agentic systems
+  ├── Automation & Tooling        → N8N, MCP servers, FastAPI, TypeScript pipelines
+  ├── Multilingual Systems        → localization engines, translation QA, 9+ languages
+  ├── Self-Hosted Infrastructure  → Oracle Cloud, Cloudflare, Supabase, containerized deploys
+  └── Developer Tooling           → open-source templates, CI/CD, secure-by-default repos
+```
+
+---
+
+## 🔨 Building Now
+
+| Project | Status | Description |
+|---|---|---|
+| **Vibe-Coding Control Plane** | 🔴 Active | AI-assisted coding + agent-builder control panel |
+| **Multilingual Workflow Engine** | 🔴 Active | Localization and content adaptation with AI |
+| **Self-Hosted AI Infrastructure** | 🟡 Ongoing | Apple Silicon + Linux local model deployment |
+| **Agent Orchestration Templates** | 🟡 Ongoing | Production-ready agent patterns + AGENTS.md standard |
+
+---
+
+## 🗂️ Selected Work
+
+> All production and product repositories live under [@Zekk-s](https://github.com/Zekk-s) organization.
+
+| Repository | Description |
+|---|---|
+| [ai-localization-demo](https://github.com/Zekk-s/ai-localization-demo) | Real-time AI-powered translation and localization demo |
+| [agent-builder](https://github.com/Zekk-s/agent-builder) | Visual agent orchestration and control panel |
+| [multilingual-webapp-starter](https://github.com/Zekk-s/multilingual-webapp-starter) | Next.js + i18n boilerplate for multilingual products |
+| [infra-blueprints](https://github.com/Zekk-s/infra-blueprints) | Self-hosted cloud infrastructure templates |
 
 ---
 
 ## 🌍 Languages
 
-🇹🇷 Turkish | 🇳🇴 Norwegian | 🇬🇧 English | 🇸🇪 Swedish | 🇩🇰 Danish | 🇸🇾 Arabic | 🏳️ Kurdish | 🇨🇭 Swiss German | 🇩🇪 German
+🇹🇷 Turkish (native) · 🇳🇴 Norwegian (fluent) · 🇬🇧 English (fluent) · 🇸🇪 Swedish · 🇩🇰 Danish · 🇦🇪 Arabic · 🏴 Kurdish · 🇩🇪 German · 🇨🇭 Swiss German
+
+*Multilingual background is a core capability — not just a personal fact. I build systems that work across languages, cultures, and locales.*
 
 ---
 
-## 💡 Skills & Tools
+## 🛠️ Stack
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![AI/ML](https://img.shields.io/badge/AI%2FML-LLM%20%7C%20Agents-blue?style=flat)
+**AI & Agents**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**Infrastructure**
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ---
 
-## 📊 GitHub at a Glance
+## ⚙️ Operating Principles
+
+```yaml
+delivery:
+  - PR-first: agents and humans both work through pull requests
+  - main is always deployable
+  - every change has a test and a reason
+
+security:
+  - fine-grained tokens only — no god-mode PATs
+  - secrets in secret managers — never in repos
+  - signed commits on all production work
+  - monthly access audit: tokens, collaborators, exposure
+
+agent_policy:
+  - agents propose via PR, humans approve for production
+  - AGENTS.md in every active repo
+  - no direct push to main by automation
+  - observable execution with audit trail
+
+infrastructure:
+  - self-hosted first, cloud-native second
+  - reproducible deployments (Docker + IaC)
+  - environment-gated production releases
+```
+
+---
+
+## 🤝 Connect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20Agent%20Architecture-0F766E?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20TypeScript%20%7C%20Cloud-7C3AED?style=for-the-badge" alt="Stack"/>
-  <img src="https://img.shields.io/badge/Working%20From-Trondheim%2C%20NO-B91C1C?style=for-the-badge" alt="Working From"/>
-</p>
-
-> 13 public repos · 173 private forks/customizations · open to collaboration via PR
-
----
-
-## ✨ Featured Projects
-
-- [ai-localization-demo](https://github.com/ZeZilly/ai-localization-demo): AI-powered, real-time translation/localization demo app.
-- [cloud-automation-starter](https://github.com/ZeZilly/cloud-automation-starter): Starter kit for automating cloud workflows (Azure, GCP, AWS).
-- [multilingual-webapp-starter](https://github.com/ZeZilly/multilingual-webapp-starter): Boilerplate for a multilingual website (React/Next.js, i18n, multi-language content).
-- [aidentity-core-platform-nexus-builder](https://github.com/ZeZilly/aidentity-core-platform-nexus-builder): Web-based AI-enhanced dev/ops platform for rapid app building, automation, and analytics.
-
----
-
-## 🤖 AI & Quality Systems
-
-- Actively testing, validating, and optimizing agentic AI workflows
-- Implementing human-in-the-loop quality rating and evaluation frameworks
-- Designing ethical AI validation methodologies with cultural and linguistic awareness
-- Working on specialized localization and content adaptation systems using AI
-- Engaging in confidential freelance projects combining AI innovation with human oversight (NDA)
-
----
-
-## 📜 Certifications & Learning
-
-- Microsoft Certified: Azure Developer Associate (in progress)
-- Google Cloud & AWS Developer Programs (in progress)
-- International Food Safety & Hygiene (2017, Sweden)
-- Culinary Arts: Multi-cuisine Chef, Italian Pizza Mastery
-- Turkish Middle School Graduate | Swiss High School Graduate
-
----
-
-## 🤝 Contact & Social
-
-<p align="center">
-  <a href="mailto:mzogz@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/zekiogz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://t.me/ZekTonz"><img src="https://img.shields.io/badge/Telegram-@ZekTonz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://x.com/mehmetzekki"><img src="https://img.shields.io/badge/X-@mehmetzekki-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
-  <a href="https://www.upwork.com/freelancers/zeki"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
+  <a href="mailto:mzogz@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/zekiogz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://t.me/ZekTonz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://x.com/mehmetzekki"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.upwork.com/freelancers/zeki"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
 </p>
 
 ---
 
-## ☕ Support Me
+<div align="center">
 
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=mehmetzekih&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&cof_bg=FFFFFF&margin_top=5&margin_bottom=5)](https://www.buymeacoffee.com/mehmetzekih)
+<sub>Personal identity · Product repos at <a href="https://github.com/Zekk-s">@Zekk-s</a> · Last updated Sep 2026</sub>
 
----
-
-## 🎨 Creative Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🌍-Global%20Citizen-blueviolet?style=for-the-badge" alt="Global Citizen"/>
-  <img src="https://img.shields.io/badge/🗣️-Polyglot%20Translator-brightgreen?style=for-the-badge" alt="Polyglot Translator"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖-AI%20Systems%20Builder-orange?style=for-the-badge" alt="AI Systems Builder"/>
-  <img src="https://img.shields.io/badge/🌱-Continuous%20Learner-success?style=for-the-badge" alt="Continuous Learner"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=01696f&height=80&section=footer" width="100%" alt="footer" />
 
 </div>
