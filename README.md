@@ -2,7 +2,7 @@
 
 # Zeki Oguz
 
-### AI Agent Architect · Open-Source Contributor · Enterprise-Grade Systems
+### AI Agent Architect · Open-Source Contributor · Trondheim 🇳🇴
 
 *Developer, Translator & AI Systems Specialist from Trondheim 🇳🇴*
 
@@ -13,7 +13,7 @@
 - Translator: Turkish 🇹🇷, Norwegian 🇳🇴, English 🇬🇧 (fluent), Kurdish 🏳️, Arabic 🇸🇾 (on-the-fly), Swedish 🇸🇪 & Danish 🇩🇰 (pro docs/web), Swiss German 🇨🇭 & German 🇩🇪
 - **AI Agent Architect** — design and ship agentic systems with human-in-the-loop gates, durable execution, and auditable decision trails
 - **Open-Source Contributor** — maintain public reference implementations and accept community contributions via clear `CONTRIBUTING.md` and `SECURITY.md` flows
-- **Enterprise-Grade Engineering** — FastAPI / Node.js / TypeScript, N8N orchestrations, MCP tool servers, containerized deploys, CI/CD with badges
+- **Production Engineering** — FastAPI / Node.js / TypeScript, N8N orchestrations, MCP tool servers, containerized deploys, CI/CD with badges
 - Specialized in quality assurance frameworks, human evaluation methodologies, and ethical AI validation
 - Mission: Use technology and languages to help organizations and projects grow internationally, with responsible AI at the core
 - Currently focusing on cloud technologies (Azure, Google Cloud, AWS), modern web development, and AI agent orchestration
