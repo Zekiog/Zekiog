@@ -23,7 +23,7 @@ I design and ship **AI agent systems**, **automation workflows**, and **multilin
 Core areas:
   ├── AI Agent Orchestration      → durable, auditable, human-gated agentic systems
   ├── Automation & Tooling        → N8N, MCP servers, FastAPI, TypeScript pipelines
-  ├── Multilingual Systems        → localization engines, translation QA, 9+ languages
+  ├── Multilingual Systems        → localization engines, translation QA, 3+ languages
   ├── Self-Hosted Infrastructure  → Oracle Cloud, Cloudflare, Supabase, containerized deploys
   └── Developer Tooling           → open-source templates, CI/CD, secure-by-default repos
 ```
@@ -43,7 +43,9 @@ Core areas:
 
 ## 🗂️ Selected Work
 
-> All production and product repositories live under [@Zekk-s](https://github.com/Zekk-s) organization.
+> Production repos live under [@Zekk-s](https://github.com/Zekk-s); experiments and forks live here at [@Zekiog](https://github.com/Zekiog).
+
+### Production (@Zekk-s)
 
 | Repository | Description |
 |---|---|
@@ -52,11 +54,22 @@ Core areas:
 | [multilingual-webapp-starter](https://github.com/Zekk-s/multilingual-webapp-starter) | Next.js + i18n boilerplate for multilingual products |
 | [infra-blueprints](https://github.com/Zekk-s/infra-blueprints) | Self-hosted cloud infrastructure templates |
 
+### Flagship experiments (@Zekiog)
+
+| Repository | Description |
+|---|---|
+| [A-Identity-Z](https://github.com/Zekiog/A-Identity-Z) | AI agent identity & runtime context |
+| [hermes-legal](https://github.com/Zekiog/hermes-legal) | Multilingual legal/AI tooling |
+| [rag-project](https://github.com/Zekiog/rag-project) | Retrieval-augmented agent runtime |
+| [memory-core-mcp](https://github.com/Zekiog/memory-core-mcp) | Persistent memory layer for agents |
+
 ---
 
 ## 🌍 Languages
 
-🇹🇷 Turkish (native) · 🇳🇴 Norwegian (fluent) · 🇬🇧 English (fluent) · 🇸🇪 Swedish · 🇩🇰 Danish · 🇦🇪 Arabic · 🏴 Kurdish · 🇩🇪 German · 🇨🇭 Swiss German
+🇹🇷 Turkish (native) · 🇳🇴 Norwegian (fluent) · 🇬🇧 English (fluent)
+
+Plus working knowledge of: 🇸🇪 Swedish · 🇩🇰 Danish · 🇦🇪 Arabic · 🇩🇪 German
 
 *Multilingual background is a core capability — not just a personal fact. I build systems that work across languages, cultures, and locales.*
 
@@ -96,12 +109,12 @@ delivery:
 security:
   - fine-grained tokens only — no god-mode PATs
   - secrets in secret managers — never in repos
-  - signed commits on all production work
-  - monthly access audit: tokens, collaborators, exposure
+  - signed commits where tooling permits
+  - quarterly access audit: tokens, collaborators, exposure
 
 agent_policy:
   - agents propose via PR, humans approve for production
-  - AGENTS.md in every active repo
+  - AGENTS.md in flagship public repos (in progress)
   - no direct push to main by automation
   - observable execution with audit trail
 
@@ -127,7 +140,7 @@ infrastructure:
 
 <div align="center">
 
-<sub>Personal identity · Product repos at <a href="https://github.com/Zekk-s">@Zekk-s</a> · Last updated Sep 2026</sub>
+<sub>Personal identity · Production at <a href="https://github.com/Zekk-s">@Zekk-s</a> · Experiments at <a href="https://github.com/Zekiog">@Zekiog</a> · Last updated 2 Sep 2026</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=01696f&height=80&section=footer" width="100%" alt="footer" />
 
