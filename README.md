@@ -18,11 +18,9 @@ I build and evaluate reliable AI-assisted systems at the intersection of multili
 | Project | What it demonstrates |
 | --- | --- |
 | [Multilingual AI services](https://multilingual.no) | AI quality, localization and multilingual digital services |
-| [Professional profile](https://cv.multilingual.no) | Recruiter-facing experience, skills and selected evidence |
 | [Web-ID](https://github.com/Zekiog/Web-ID) | React/Vite delivery for multilingual AI-quality and localization services |
 | [A-Identity-Z](https://github.com/Zekiog/A-Identity-Z) | AI agents, multilingual system surfaces and identity-oriented product exploration |
 | [RAG Project](https://github.com/Zekiog/rag-project) | Modular ingestion, embeddings, vector retrieval, LLM and API workflow design |
-| [Asana–GitHub Sync](https://github.com/Zekiog/asana-sync-github) | TypeScript automation integration with documented test coverage |
 
 ### Current direction
 
@@ -38,7 +36,6 @@ Building practical, testable and explainable AI-assisted workflows for global AI
 ### Contact
 
 - Website: [multilingual.no](https://multilingual.no)
-- Portfolio: [cv.multilingual.no](https://cv.multilingual.no)
 - GitHub: [@Zekiog](https://github.com/Zekiog)
 - LinkedIn: [zekiogz](https://www.linkedin.com/in/zekiogz/)
 - Email: [zeki@multilingual.no](mailto:zeki@multilingual.no)
