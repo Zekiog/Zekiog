@@ -1,0 +1,7 @@
+name: PR basic check
+on: [pull_request]
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "No language-specific lint configured; consider adding ruff or ESLint."
