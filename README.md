@@ -29,7 +29,7 @@ This account is [Zekiog](https://github.com/Zekiog). Public project repositories
 | Repository | What is in the repo |
 | --- | --- |
 | [Shining-new-2026](https://github.com/Zekiog/Shining-new-2026) | Marketing and booking site for Shining Beauty Wellness, Adana. |
-| [turgutlar-oto-tamir-merkezi](https://github.com/Zekiog/turgutlar-oto-tamir-merkezi) | Website for Turgutlar Oto Tamir ve Hasar Onarım Merkezi, Seyhan, Adana. |
+| [turgutlar-oto-tamir-merkezi](https://github.com/Zekiog/turgutlar-oto-tamir-merkezi) | Website for Turgutlar Auto Repair and Bodywork Center, Seyhan, Adana. |
 
 ## Contact
 
